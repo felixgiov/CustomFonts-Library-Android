@@ -1,6 +1,10 @@
 # CustomFonts-Library-Android
 A simple library to use custom fonts in text view.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felixgiov/CustomFonts-Library-Android/master/1.png" width="420"/>
+</p>
+
 ## Download
 #### As a Gradle dependency
 
@@ -45,6 +49,10 @@ Then, add the dependency :
 
 ## Usage
 ### Add font in your assets/font folder
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felixgiov/CustomFonts-Library-Android/master/2.png" width="420"/>
+</p>
 
 ### Add font path in values/strings.xml
 ```xml
