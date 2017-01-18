@@ -8,7 +8,7 @@ A simple library to use custom fonts in text view.
 ## Download
 #### As a Gradle dependency
 
-Simply add it in your root build.gradle at the end of repositories:: 
+Simply add it in your root build.gradle at the end of repositories : 
 
 ```gradle
 allprojects {
@@ -26,7 +26,7 @@ And add the dependency :
 ```
 #### As a Maven dependency
 
-Declare the dependency in Maven:
+Declare the dependency in Maven :
 
 ```xml
 	<repositories>
@@ -48,7 +48,7 @@ Then, add the dependency :
 ```
 
 ## Usage
-### Add font in your assets/font folder
+### Add font in your assets/fonts folder
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/felixgiov/CustomFonts-Library-Android/master/2.png" width="420"/>
@@ -58,7 +58,7 @@ Then, add the dependency :
 ```xml
     <string name="cloudier">fonts/Cloudier.ttf</string>
 ```
-By default this CustomFonts using Expressive Inks font. [Credits](http://www.dafont.com/expressive-inks.font)
+By default this CustomFonts uses Expressive Inks font. [Credits](http://www.dafont.com/expressive-inks.font)
 
 ### In layout xml.
 ```xml
