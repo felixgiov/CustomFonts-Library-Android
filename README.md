@@ -44,7 +44,7 @@ Then, add the dependency :
 ```
 
 ## Usage
-### Don't forget to add font in your asset folder
+### Add font in your assets/font folder
 
 ### Add font path in values/strings.xml
 ```xml
