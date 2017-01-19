@@ -66,6 +66,5 @@ By default this CustomFonts uses Expressive Inks font. [Credits](http://www.dafo
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Custom Fonts Example"
-        android:textSize="24dp"
         app:fontPath="@string/cloudier"/>
 ```
